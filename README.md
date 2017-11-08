@@ -8,24 +8,24 @@ Outline
 
 Function
 
-1.Bluetooth
+>1.Bluetooth
 
-  - Connecting the Aduino and Application
+ >> - Connecting the Aduino and Application
  
-2.Visualization
+>2.Visualization
 
-  - Target step setting
+  >>- Target step setting
 
-  - Total number of steps this week
+  >>- Total number of steps this week
 
-  - Balance measurement
+ >> - Balance measurement
   
 
 
-3.SNS 
+>3.SNS 
 
-  - using kakao api
+  >>- using kakao api
 
-  - kakao talk & kakaostory 
+ >> - kakao talk & kakaostory 
 
 
