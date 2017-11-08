@@ -28,5 +28,4 @@ Function
 
   - kakao talk & kakaostory 
 
-   - Sns.java, KakaoSDKAdapter.java
 
