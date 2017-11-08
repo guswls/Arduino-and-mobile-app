@@ -10,30 +10,23 @@ Function
 
 1.Bluetooth
 
-  1) Connecting the Aduino and Application
-  - Bluetooth.java
-
+  - Connecting the Aduino and Application
+ 
 2. Visualization
 
-  1) Target step setting
+  - Target step setting
 
-  - Stepcount.java
+  - Total number of steps this week
 
-  2) Total number of steps this week
-
-  -Act.java
-
-
-  3) Balance measurement
+  - Balance measurement
   
-  - Blance.java
 
 
 3. SNS 
 
-  1) using kakao api
+  - using kakao api
 
-  2) kakao talk & kakaostory 
+  - kakao talk & kakaostory 
 
    - Sns.java, KakaoSDKAdapter.java
 
