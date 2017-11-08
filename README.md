@@ -8,9 +8,23 @@ Outline
 
 Function
 
-1. Visualization
- 
- - 
+1.Bluetooth
+
+- Connecting the Aduino and Application
 
 
-2. SNS 
+2. Visualization
+
+- Target step setting
+
+- Total number of steps this week
+
+- Balance measurement
+
+
+3. SNS 
+
+- using kakao api
+
+- kakao talk & kakaostory 
+
